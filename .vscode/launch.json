@@ -1,0 +1,13 @@
+{
+    "version": "0.3.0",
+    "configurations": [
+      {
+        "name": "debug",
+        "program": "lib/main.dart",
+        "request": "launch",
+        "type": "dart"
+      }
+    ]
+  }
+
+  
